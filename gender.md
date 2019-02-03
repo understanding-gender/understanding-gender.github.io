@@ -10,7 +10,7 @@ date: '21<sup>st</sup> January 2019'
 but when I actually stopped and thought about it,
 it turned out I didn't really know much about gender, what it means, and how it relates to other aspects of sexuality.
 I've been trying to rectify this with a bit of research,
-and below is my summary of my current understanding in order to open it up to critique and improvement.
+and below is a summary of my current understanding in order to open it up to critique and improvement.
 
 </section>
 
@@ -26,19 +26,20 @@ In fact the difference between a *tall person* and a *short person* may only be 
 and the 1.8 m threshold that we have set up is actually quite arbitrary and would not be appropriate for all populations.
 
 This idea that behind group labels there are one or more measurements made along a continuous spectrum is something that I think provides a useful frame for thinking about gender issues.
-I'm a very visual thinker, so if we took <span class="figEm person">a hundred people</span> and marked their height on <span class="figEm scale">a scale</span> it might <span class="figEm rugplot">look something like this</span>:
+I'm a very visual thinker, so if we took <span class="figEm person">a hundred people</span> and marked their height on <span class="figEm scale">a scale</span> it might look something like this:
 
 <figure>
-^[{-} One hundred peoples height marked as a dash on a scale]
+^[{-} One hundred people's height marked as a dash on a scale]
 ![One hundred heights along a scale](heightRug.svg)
 </figure>
 
-To make this clearer we can stack them up on top of one another which makes the distribution more obvious;
-there are lots of people grouped around an average height,
-with less people who are very tall or short.
+To make this clearer we can stack them up on top of one another,
+which makes <span class="figEm distribution">the distribution</span> more obvious;
+there are lots of people grouped around an <span class="figEm average">average height</span>,
+with less people who are <span class="figEm tall short">very tall or short</span>.
 
 <figure>
-^[{-} One hundred peoples height as a distribution]
+^[{-} One hundred people's height as a distribution]
 ![One hundred heights along a scale](heightDist.svg)
 </figure>
 

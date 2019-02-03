@@ -66,5 +66,7 @@ $body$
 $for(include-after)$
 $include-after$
 $endfor$
+<script src="js/SVGInjector/svg-injector.js"></script>
+<script src="js/inlineSvg.js"></script>
 </body>
 </html>

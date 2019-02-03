@@ -173,8 +173,8 @@ span.figEm { text-decoration: underline;
              text-decoration-style: dashed; }
 
 span.figEm:hover { color: #000;
-            text-decoration-color: #888;
-            text-decoration-style: solid; }
+                   text-decoration-color: #888;
+                   text-decoration-style: solid; }
 
 /* Sidenotes, margin notes, figures, captions */
 img { max-width: 100%; }
