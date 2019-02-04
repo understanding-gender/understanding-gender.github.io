@@ -49,7 +49,7 @@ or for them to have a single peak.
 
 ## Sex
 
-We could take our same hundred people and measured them in a few different ways.
+We could take our same hundred people and measure them in a few different ways.
 The measurements that are most relevant to discussing the sex of the people are:
 
 * their number and type of sex chromosomes;
@@ -58,16 +58,16 @@ The measurements that are most relevant to discussing the sex of the people are:
 * their reproductive anatomy including their internal and external genitalia.
 
 The XX or XY chromosomes inherited during reproduction are a primary determinant of biological sex.
-These are largely binary,
-although are some variations in these and in how they manifest during development.
+<span class="figEm chromosomes">These are largely binary,
+although are some variations in these and in how they manifest during development</span>.
 
-Sex hormones,
+<span class="figEm hormones">Sex hormones,
 androgens (including testosterone) and estrogens,
-are produced by the body in varying quantities and have a major impact on determining sex, particularly during development.
+are produced by the body in varying quantities</span> and have a major impact on determining sex, particularly during development.
 
 The reproductive anatomy of a person develops based on their chromosomes and hormones.
-Its size and occurrence can vary significantly,
-with a range of 'ambiguous' genitalia between the accepted norms of *male* and *female*;
+<span class="figEm genitalia">Its size and occurrence can vary significantly,
+with a range of 'ambiguous' genitalia between the accepted norms of *male* and *female*</span>;
 the Quigley scale is a descriptive, visual system for grading this into seven classes.
 
 <figure>
@@ -80,16 +80,16 @@ there is also significant variation in the developmental process;
 therefore it is necessary to measure each aspect independently as they will not necessarily correlate.
 So if we consider individual people from our hundred then they may appear at a different point on each measurement scale.
 Looking across all measurements then it is straightforward to separate our hundred people into two roughly equal size groups,
-which we call *male* and *female*;
+which we call <span class="figEm male">*male*</span> and <span class="figEm female">*female*</span>;
 however there may be some people who don't fit neatly into either group,
-either because they sit in the centre on several measures,
-or because they sit in the *male* category on some measures and in the *female* category for others.
-These people are referred to as *intersex* --
+either because they <span class="figEm intersexCentre">sit in the centre on several measures</span>,
+or because they <span class="figEm intersexSplit">sit in the *male* category on some measures and in the *female* category for others</span>.
+These people are referred to as <span class="figEm intersex">*intersex*</span> --
 estimates are that between 0.05% and 1.7% of the population is born with intersex traits.
 
 All of the above is based on biological differences,
 and therefore the distinction between *male* and *female* is sometimes referred to as *biological sex*.
-At birth the sex of a child is typically assigned to it based on observation.
+<span class="figEm assignedSex">At birth the sex of a child is typically assigned to it based on observation</span>.
 Intersex babies may be assigned as *male* or *female*,
 either incorrectly or arbitrarily;
 they may also undergo surgery to 'correct' their sex.

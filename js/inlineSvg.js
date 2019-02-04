@@ -3,7 +3,14 @@ document.querySelectorAll('img[src$=".svg"]').forEach(function(e) {
     svg.querySelectorAll('*').forEach(function(svgEl) {
       // svgEl.classList.add('mute'); // mute all elements initially
     });
-    console.log(svg);
+    // fix give the svg a max width and height but make it responsive
+    var wrapper = document.createElement('div'); // add a wrapper to the svg
+    svg.parentNode.replaceChild(wrapper, svg);
+    wrapper.appendChild(svg);
+    wrapper.style.maxWidth = svg.getAttribute("width") // set the wrapper max width/height based on the svg natural size
+    wrapper.style.maxHeight = svg.getAttribute("height")
+    svg.removeAttribute("height"); // remove svg fixed size to make it responsive
+    svg.removeAttribute("width");
   }});
 });
 

@@ -1,14 +1,41 @@
 span.figEm.person.active { color: #e31a1c;
-                           text-decoration-color: #e31a1c; }
+                           text-decoration-color: #d17575; }
 
 span.figEm.scale.active { color: #e31a1c;
-                          text-decoration-color: #e31a1c; }
+                          text-decoration-color: #d17575; }
 
 span.figEm.distribution.active { color: #e31a1c;
-                                 text-decoration-color: #e31a1c; }
+                                 text-decoration-color: #d17575; }
 
 span.figEm.short.active { color: #e31a1c;
-                          text-decoration-color: #e31a1c; }
+                          text-decoration-color: #d17575; }
 
 span.figEm.average.active { color: #e31a1c;
-                            text-decoration-color: #e31a1c; }
+                            text-decoration-color: #d17575; }
+
+span.figEm.chromosomes.active { color: #e31a1c;
+                            text-decoration-color: #d17575; }
+
+span.figEm.hormones.active { color: #e31a1c;
+                            text-decoration-color: #d17575; }
+
+span.figEm.genitalia.active { color: #e31a1c;
+                            text-decoration-color: #d17575; }
+
+span.figEm.male.active { color: #e31a1c;
+                            text-decoration-color: #d17575; }
+
+span.figEm.female.active { color: #e31a1c;
+                            text-decoration-color: #d17575; }
+
+span.figEm.intersex.active { color: #e31a1c;
+                            text-decoration-color: #d17575; }
+
+span.figEm.intersexCentre.active { color: #e31a1c;
+                            text-decoration-color: #d17575; }
+
+span.figEm.intersexSplit.active { color: #e31a1c;
+                              text-decoration-color: #d17575; }
+
+span.figEm.assignedSex.active { color: #e31a1c;
+                            text-decoration-color: #d17575; }
