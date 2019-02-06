@@ -68,7 +68,7 @@ are produced by the body in varying quantities</span> and have a major impact on
 The reproductive anatomy of a person develops based on their chromosomes and hormones.
 <span class="figEm genitalia">Its size and occurrence can vary significantly,
 with a range of 'ambiguous' genitalia between the accepted norms of *male* and *female*</span>;
-the Quigley scale is a descriptive, visual system for grading this into seven classes.
+<span class="figEm quigley">the Quigley scale is a descriptive, visual system for grading this into seven classes</span>.
 
 <figure>
 ^[{-} One hundred people's sex measured along different scales]
