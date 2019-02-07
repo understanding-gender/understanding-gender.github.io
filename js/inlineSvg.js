@@ -1,7 +1,7 @@
 document.querySelectorAll('img[src$=".svg"]').forEach(function(e) {
   SVGInjector(e, {each: function(svg){
     svg.querySelectorAll('*').forEach(function(svgEl) {
-      // svgEl.classList.add('mute'); // mute all elements initially
+      svgEl.classList.add('mute'); // mute all elements initially
     });
     // fix give the svg a max width and height but make it responsive
     var wrapper = document.createElement('div'); // add a wrapper to the svg
@@ -24,8 +24,8 @@ document.querySelectorAll('.figEm').forEach(function(e) { // for all text with t
   });
   e.addEventListener("mouseout", function() { // add a mouse out event
     e.className.split(/\s+/).forEach(function(classEm) { // for each other class in the moused text
-      if (classEm!='figEm') document.querySelectorAll('.'+classEm).forEach(function(emObj) { // find all objects to de-emphasise
-        emObj.classList.remove('active');
+      if (classEm!='figEm') document.querySelectorAll('.'+classEm).forEach(function(emEl) { // find all objects to de-emphasise
+        emEl.classList.remove('active');
       });
     });
   });
