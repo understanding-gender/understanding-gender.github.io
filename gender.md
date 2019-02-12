@@ -116,10 +116,10 @@ with an individual person appearing at different points on each scale.
 </figure>
 
 We can think of a *gender role* as being an aggregation of all these social expectations typically assigned to a man or woman.
-A person may conform strongly or weakly to all aspects of a masculine or feminine gender role,
-they might be ambiguously between on some,
-or they could be masculine for some and feminine for others.
-The terms *third gender*, *non-binary*, or *gender non-conforming* may be used to describe people in these latter two groups
+A person may conform strongly or weakly to all aspects of a <span class="figEm masculine">masculine</span> or <span class="figEm feminine">feminine</span> gender role,
+they might be <span class="figEm ambiguousNonBinary">ambiguously between on some</span>,
+or they could be <span class="figEm mixedNonBinary">masculine for some and feminine for others</span>.
+The terms <span class="figEm nonBinary">*third gender*, *non-binary*, or *gender non-conforming*</span> may be used to describe people in these latter two groups
 (*androgynous* and *cross dressing* are also specific terms for atypical gender roles).
 
 
