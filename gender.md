@@ -129,20 +129,20 @@ Although the typical *gender roles* are defined relative to *sex*,
 i.e. *males* are *masculine* and *females* are *feminine*,
 *gender identity* refers to how a person feels,
 which may not necessarily align in this way.
-The case where a persons psychological *gender identity* aligns with their *assigned sex* is referred to as *cisgender*
-(or simply *cis*).
+The case where <span class="figEm cis">a persons psychological *gender identity* aligns with their *assigned sex* is referred to as *cisgender*
+(or simply *cis*)</span>.
 
 <figure>
 ^[{-} How *assigned sex* relates to *gender identity*]
 ![How *assigned sex* relates to *gender identity*](genderIdentity.svg)
 </figure>
 
-Where a person's *gender identity* does not align with their *assigned sex* they are *transgender* (or *trans*).
-An assigned male person who identifies as female is referred to as a *trans woman*,
-or *male-to-female* (MTF).
-Conversely someone assigned as female but who identifies as male is called a *trans man*,
-or *female-to-male* (FTM).
-People who feel neither male nor female may choose a label such as *genderqueer*, *gender variant*, or *gender fluid*.
+Where <span class="figEm trans">a person's *gender identity* does not align with their *assigned sex* they are *transgender* (or *trans*)</span>.
+An assigned male person who identifies as female is referred to as a <span class="figEm transWoman">*trans woman*,
+or *male-to-female* (MTF)</span>.
+Conversely someone assigned as female but who identifies as male is called a <span class="figEm transMan">*trans man*,
+or *female-to-male* (FTM)</span>.
+People who <span class="figEm queer">feel neither male nor female may choose a label such as *genderqueer*, *gender variant*, or *gender fluid*</span>.
 
 The significant distress a person can experience as a result of their *assigned sex* and *gender* not matching is called *gender dysphoria*.
 This may be alleviated through choosing to change some aspect of their body.
