@@ -1,124 +1,19 @@
-span.figEm.person.active {
+span.figEm.active { /* default active text */
   color: #e31a1c;
   text-decoration-color: #d17575;
 }
 
-span.figEm.scale.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.distribution.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.short.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.average.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.chromosomes.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.hormones.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.genitalia.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.male.active {
+span.figEm.male.active, span.figEm.masculine.active {
   color: #33a02c;
   text-decoration-color: #33a02c;
 }
 
-span.figEm.female.active {
+span.figEm.female.active, span.figEm.feminine.active {
   color: #1f78b4;
   text-decoration-color: #1f78b4;
 }
 
-span.figEm.intersex.active {
+span.figEm.intersex.active, span.figEm.intersexCentre.active, span.figEm.intersexSplit.active, span.figEm.nonBinary.active, span.figEm.mixedNonBinary.active, span.figEm.ambiguousNonBinary.active {
   color: #ff7f00;
   text-decoration-color: #ff7f00;
-}
-
-span.figEm.intersexCentre.active {
-  color: #ff7f00;
-  text-decoration-color: #ff7f00;
-}
-
-span.figEm.intersexSplit.active {
-  color: #ff7f00;
-  text-decoration-color: #ff7f00;
-}
-
-span.figEm.assignedSex.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.quigley.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.masculine.active {
-  color: #33a02c;
-  text-decoration-color: #33a02c;
-}
-
-span.figEm.feminine.active {
-  color: #1f78b4;
-  text-decoration-color: #1f78b4;
-}
-
-span.figEm.nonBinary.active {
-  color: #ff7f00;
-  text-decoration-color: #ff7f00;
-}
-
-span.figEm.mixedNonBinary.active {
-  color: #ff7f00;
-  text-decoration-color: #ff7f00;
-}
-
-span.figEm.ambiguousNonBinary.active {
-  color: #ff7f00;
-  text-decoration-color: #ff7f00;
-}
-
-span.figEm.cis.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.trans.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.transWoman.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.transMan.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
-}
-
-span.figEm.queer.active {
-  color: #e31a1c;
-  text-decoration-color: #d17575;
 }
