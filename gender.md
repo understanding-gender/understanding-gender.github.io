@@ -162,28 +162,33 @@ Sexual orientation may be considered a continuum ranging from exclusive attracti
 </figure>
 ^[{-} Different sexual orientations]
 
-The most common case of a man attracted to women,
-or a woman attracted to men,
-is referred to as *heterosexuality*
-(or being *straight*).
-Same sex attraction is generally called *homosexuality*,
-or being *gay*,
-with the specific term *lesbian* for women attracted to women.
-*Bisexuality* is romantic or sexual attraction to both men and women.
+The most common case of <span class="figEm heteroMan">a man attracted to women</span>,
+or <span class="figEm heteroWoman">a woman attracted to men</span>,
+is referred to as <span class="figEm hetero">*heterosexuality*
+(or being *straight*)</span>.
+<span class="figEm homo">Same sex attraction is generally called *homosexuality*,
+or being *gay*</span>,
+with the specific term <span class="figEm lesbian">*lesbian* for women attracted to women</span>.
+<span class="figEm bi">*Bisexuality* is romantic or sexual attraction to both men and women</span>.
 
-Other descriptions that may be used include *pansexual*,
-which rejects the the notion of binary genders,
+Other descriptions that may be used include <span class="figEm pan">*pansexual*,
+which rejects the the notion of binary genders</span>,
 and *asexual*,
 where there is a lack of sexual attraction to others of any sex.
 The term *questioning* is also sometimes used to describe those who are unsure of their sexual orientation and do not wish to select a label.
 
-Although sex and gender are typically used interchangeably when discussing a persons orientation,
+Although sex and gender are often used interchangeably when discussing a persons orientation,
 transgender people typically take the orientation label that corresponds with their gender identity;
 i.e. a trans woman who is solely attracted to women would identify as a lesbian.
 
 ## Wrap up
 
-Something...
+Although I had a sort of vague notion of most of the above before looking into it,
+I don't think I could have properly separated out the terminology.
+I feel like I visualise a lot of issues along a sort of spectrum,
+and so I put together the figures above document the picture that I have in my head.
+Of course there are lots of other ways these issues could be drawn out,
+but perhaps this view is useful to others?
 
 ## Disclaimers
 
