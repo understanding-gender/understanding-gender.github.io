@@ -9,6 +9,7 @@ document.querySelectorAll('img[src$=".svg"]').forEach(function(e) {
     wrapper.appendChild(svg);
     wrapper.style.maxWidth = svg.getAttribute("width") // set the wrapper max width/height based on the svg natural size
     wrapper.style.maxHeight = svg.getAttribute("height")
+    wrapper.classList.add('svgWrapper');
     svg.removeAttribute("height"); // remove svg fixed size to make it responsive
     svg.removeAttribute("width");
   }});

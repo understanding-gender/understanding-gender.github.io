@@ -28,20 +28,16 @@ and the 1.8 m threshold that we have set up is actually quite arbitrary and woul
 This idea that behind group labels there are one or more measurements made along a continuous spectrum is something that I think provides a useful frame for thinking about gender issues.
 I'm a very visual thinker, so if we took <span class="figEm person">a hundred people</span> and marked their height on <span class="figEm scale">a scale</span> it might look something like this:
 
-<figure>
 ^[{-} One hundred people's height marked as a dash on a scale]
 ![One hundred heights along a scale](heightRug.svg)
-</figure>
 
 To make this clearer we can stack them up on top of one another,
 which makes <span class="figEm distribution">the distribution</span> more obvious;
 there are lots of people grouped around an <span class="figEm average">average height</span>,
 with less people who are <span class="figEm tall short">very tall or short</span>.
 
-<figure>
 ^[{-} One hundred people's height as a distribution]
 ![One hundred heights along a scale](heightDist.svg)
-</figure>
 
 Not all distributions will look like this though.
 There is no reason they need to be symmetrical,
@@ -57,6 +53,9 @@ The measurements that are most relevant to discussing the sex of the people are:
 * their type of gonads -- ovaries or testicles;
 * their reproductive anatomy including their internal and external genitalia.
 
+^[{-} ![One hundred people's sex measured along different scales](sex.svg)
+One hundred people's sex measured along different scales]
+
 The XX or XY chromosomes inherited during reproduction are a primary determinant of biological sex.
 <span class="figEm chromosomes">These are largely binary,
 although are some variations in these and in how they manifest during development</span>.
@@ -69,11 +68,6 @@ The reproductive anatomy of a person develops based on their chromosomes and hor
 <span class="figEm genitalia">Its size and occurrence can vary significantly,
 with a range of 'ambiguous' genitalia between the accepted norms of *male* and *female*</span>;
 <span class="figEm quigley">the Quigley scale is a descriptive, visual system for grading this into seven classes</span>.
-
-<figure>
-^[{-} One hundred people's sex measured along different scales]
-![One hundred people's sex measured along different scales](sex.svg)
-</figure>
 
 Although these separate aspects influence one another,
 there is also significant variation in the developmental process;
@@ -98,6 +92,9 @@ Due to these practices the phrase *assigned sex* is often used.
 
 ## Gender role
 
+^[{-} ![One hundred people's gender role measured along different scales](genderRoles.svg)
+One hundred people's gender role measured along different scales]
+
 In ordinary speech *sex* and *gender* are often used interchangeably,
 and indeed this was the defined meaning until the 1960s.
 More recently though, the term *gender* has been used to refer to social and psychological differences between people.
@@ -110,11 +107,6 @@ We could choose to assess each of our hundred people on a scale from *masculine*
 We would expect a distribution of results in all cases,
 with an individual person appearing at different points on each scale.
 
-<figure>
-^[{-} One hundred people's gender role measured along different scales]
-![One hundred people's gender role measured along different scales](genderRoles.svg)
-</figure>
-
 We can think of a *gender role* as being an aggregation of all these social expectations typically assigned to a man or woman.
 A person may conform strongly or weakly to all aspects of a <span class="figEm masculine">masculine</span> or <span class="figEm feminine">feminine</span> gender role,
 they might be <span class="figEm ambiguousNonBinary">ambiguously between on some</span>,
@@ -125,17 +117,15 @@ The terms <span class="figEm nonBinary">*third gender*, *non-binary*, or *gender
 
 ## Gender identity
 
+^[{-} ![How *assigned sex* relates to *gender identity*](genderIdentity.svg)
+How *assigned sex* relates to *gender identity*]
+
 Although the typical *gender roles* are defined relative to *sex*,
 i.e. *males* are *masculine* and *females* are *feminine*,
 *gender identity* refers to how a person feels,
 which may not necessarily align in this way.
 The case where <span class="figEm cis">a persons psychological *gender identity* aligns with their *assigned sex* is referred to as *cisgender*
 (or simply *cis*)</span>.
-
-<figure>
-^[{-} How *assigned sex* relates to *gender identity*]
-![How *assigned sex* relates to *gender identity*](genderIdentity.svg)
-</figure>
 
 Where <span class="figEm trans">a person's *gender identity* does not align with their *assigned sex* they are *transgender* (or *trans*)</span>.
 An assigned male person who identifies as female is referred to as a <span class="figEm transWoman">*trans woman*,
@@ -157,10 +147,8 @@ A person of any sex and gender may be romantically or sexually attracted to a pe
 the nature of that attraction is referred to as their *orientation*.
 Sexual orientation may be considered a continuum ranging from exclusive attraction to the opposite sex to exclusive attraction to the same sex.
 
-<figure class="fullwidth">
-![Sexual orientation](sexualOrientation.svg)
-</figure>
-^[{-} Different sexual orientations]
+^[{-} ![Sexual orientation](sexualOrientation.svg)
+Different sexual orientations]
 
 The most common case of <span class="figEm heteroMan">a man attracted to women</span>,
 or <span class="figEm heteroWoman">a woman attracted to men</span>,
