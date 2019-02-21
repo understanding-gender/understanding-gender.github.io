@@ -121,10 +121,10 @@ div.epigraph > blockquote > footer > cite { font-style: italic; }
 
 blockquote { font-size: 1.4rem; }
 
-blockquote p { width: 55%;
+blockquote p { width: 45%;
                margin-right: 40px; }
 
-blockquote footer { width: 55%;
+blockquote footer { width: 45%;
                     font-size: 1.1rem;
                     text-align: right; }
 
