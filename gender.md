@@ -174,7 +174,7 @@ i.e. a trans woman who is solely attracted to women would identify as a lesbian.
 Although I had a sort of vague notion of most of the above before looking into it,
 I don't think I could have properly separated out the terminology.
 I feel like I visualise a lot of issues along a sort of spectrum,
-and so I put together the figures above document the picture that I have in my head.
+and so I put together the figures above to document the picture that I now have in my head.
 Of course there are lots of other ways these issues could be drawn out,
 but perhaps this view is useful to others?
 
