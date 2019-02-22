@@ -10,12 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   viewBox="0 0 95.225664 239.4957"
+   viewBox="0 0 95.225669 239.49571"
    id="svg6"
    sodipodi:docname="sex.svg"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   height="239.4957mm"
-   width="95.225662mm">
+   height="181.04735mm"
+   width="71.986069mm">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,8 +30,8 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="0.99372255"
-     inkscape:cx="75.03776"
-     inkscape:cy="370.8195"
+     inkscape:cx="83.088298"
+     inkscape:cy="306.89781"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -39,7 +39,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     scale-x="0.35" />
   <style
      id="style2656">
 .text {
@@ -1729,8 +1730,7 @@ path.scale.active {
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        d="m 43.191311,33.733965 4.540504,0.110206 3.614977,0.03086 4.330224,0.06912 4.187588,0.100353 3.790353,0.12971 4.430829,0.04465 4.445506,0.0099 3.959282,-0.02141 3.995146,-0.115763 3.96465,0.163355 4.760003,-0.129388 3.859275,0.06051 4.134369,0.04999 4.224213,-0.0045 4.13266,-0.0037 4.03373,-0.244296 4.43708,-0.339422 4.17769,0.291051 4.08903,0.02309 4.11913,-0.05873"
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke-width:0.40667081;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       />
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke-width:0.40667081;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        class="text"
        id="text1273-90"
@@ -7455,8 +7455,7 @@ path.scale.active {
        y="38.733978"
        x="-229.49278"
        xml:space="preserve"
-       transform="rotate(-90)"
-><tspan
+       transform="rotate(-90)"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'xkcd Script';-inkscape-font-specification:'xkcd Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          y="38.733978"
          x="-229.49278"
