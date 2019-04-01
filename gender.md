@@ -8,7 +8,7 @@ date: '21<sup>st</sup> January 2019'
 
 > Gender seems to be a current 'hot-button' topic in the media,
 but when I actually stopped and thought about it,
-it turned out I didn't really know much about gender, what it means, and how it relates to other aspects of sexuality.
+it turned out I didn't really know much about gender, what it means, and exactly how it relates to other aspects of sexuality.
 I've been trying to rectify this with a bit of research,
 and below is a summary of my current understanding in order to open it up to critique and improvement.
 
@@ -17,7 +17,9 @@ and below is a summary of my current understanding in order to open it up to cri
 ## Thinking along a spectrum
 
 Most real world measurements that we might choose to make about people are likely to fall along a continuous scale.
-For example, we don't immediately group people as either *tall* or *short*, we directly assess their height.
+For example,
+we wouldn't arbitrarily group people classes of either *tall* or *short*,
+instead we would directly measure their height.
 Based on this we may then choose to use some rule to group them;
 such as -- everyone over 1.8 m is *tall*, everyone below is *short*.
 This may be a useful simplification,
@@ -165,7 +167,7 @@ and *asexual*,
 where there is a lack of sexual attraction to others of any sex.
 The term *questioning* is also sometimes used to describe those who are unsure of their sexual orientation and do not wish to select a label.
 
-Although sex and gender are often used interchangeably when discussing a persons orientation,
+Although sex and gender are often used interchangeably when discussing a person's orientation,
 transgender people typically take the orientation label that corresponds with their gender identity;
 i.e. a trans woman who is solely attracted to women would identify as a lesbian.
 
@@ -191,4 +193,4 @@ but perhaps this view is useful to others?
 * Text is written by me based on a variety of sources on the web
 * The font in the diagrams is [xkcd](https://xkcd.com/) author [Randal Munroe's handwriting](https://cdn.rawgit.com/ipython/xkcd-font/master/preview.html)
 * The style of the page is based on [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
-* This document written in markdown and then converted to HTML using [Tufte Pandoc CSS](https://jez.io/tufte-pandoc-css/)
+* This document is written in markdown and then converted to HTML using [Tufte Pandoc CSS](https://jez.io/tufte-pandoc-css/)
