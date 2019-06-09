@@ -8,7 +8,7 @@ date: '21<sup>st</sup> January 2019'
 
 > Gender seems to be a current 'hot-button' topic in the media,
 but when I actually stopped and thought about it,
-it turned out I didn't really know much about gender, what it means, and exactly how it relates to other aspects of sexuality.
+it turned out I didn't really know much about it, what it means, and exactly how it relates to other aspects of sexuality.
 I've been trying to rectify this with a bit of research,
 and below is a summary of my current understanding in order to open it up to critique and improvement.
 
@@ -183,14 +183,16 @@ but perhaps this view is useful to others?
 ## Disclaimers
 
 * I'm not an expert
-* Science and definitions are continually evolving
-* Distributions shown are to demonstrate the concept, they are not based on anything other than vague guesswork (actual data welcomed!)
-
+* Science and language are continually evolving
+* Distributions are to demonstrate the concept only, they are not based on anything other than vague guesswork (actual data welcomed!)
 
 ## Credits
 
-* Diagrams are drawn by me in Inkscape
-* Text is written by me based on a variety of sources on the web
-* The font in the diagrams is [xkcd](https://xkcd.com/) author [Randal Munroe's handwriting](https://cdn.rawgit.com/ipython/xkcd-font/master/preview.html)
-* The style of the page is based on [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+* Diagrams are drawn by me in [Inkscape](https://inkscape.org/)
+* Text is written by me, based on a variety of sources on the web
+* The font in the diagrams is [xkcd](https://xkcd.com/) author [Randal Munroe's handwriting](https://cdn.rawgit.com/ipython/xkcd-font/master/preview.html), the main body text font is [Kalam](https://github.com/itfoundry/kalam)
+* The style of the page is a modified version of [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 * This document is written in markdown and then converted to HTML using [Tufte Pandoc CSS](https://jez.io/tufte-pandoc-css/)
+* Original [Quigley scale drawings](https://en.wikipedia.org/wiki/File:Quigley_scale_for_androgen_insensitivity_syndrome.jpg) by Jonathan Marcus
+* SVG graphics are included interactively using [SVGInjector](https://github.com/iconic/SVGInjector)
+* This work is not directly influenced by [The GenderBread Person](https://itspronouncedmetrosexual.com/2012/03/the-genderbread-person-v2-0/) or [The Gender Unicorn](http://www.transstudent.org/gender/), however some similarities are acknowledged
