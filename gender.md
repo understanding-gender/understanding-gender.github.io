@@ -1,7 +1,7 @@
 ---
 title: Understanding sex, gender and sexuality
 author: John Welford
-date: '21<sup>st</sup> January 2019'
+date: '9<sup>th</sup> June 2019'
 ---
 
 <section>
