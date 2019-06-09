@@ -272,7 +272,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                          width: 100%;
                          height: 100%; }
 
-@media (max-width: 760px) { body { width: 84%;
+@media (max-width: 840px) { body { width: 84%;
                                    padding-left: 8%;
                                    padding-right: 8%; }
                             hr, section > p, section > footer, section > table { width: 100%; }
@@ -285,11 +285,11 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             blockquote { margin-left: 1.5em;
                                          margin-right: 0em; }
                             blockquote p, blockquote footer { width: 100%; }
-                            label.margin-toggle:not(.sidenote-number) { display: inline; }
+                            label.margin-toggle:not(.sidenote-number) { display: none; }
                             .sidenote, .marginnote { display: none; }
-                            .margin-toggle:checked + .sidenote,
-                            .margin-toggle:checked + .marginnote { display: block;
-                                                                   float: left;
+                            .sidenote,
+                            .marginnote { display: block;
+                                                                   float: none;
                                                                    left: 1rem;
                                                                    clear: both;
                                                                    width: 95%;

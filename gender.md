@@ -25,21 +25,21 @@ such as -- everyone over 1.8 m is *tall*, everyone below is *short*.
 This may be a useful simplification,
 but everyone understands that underlying the simple *tall*/*short* binary categories we have set up there may be a range of different heights.
 In fact the difference between a *tall person* and a *short person* may only be a few centimetres,
-and the 1.8 m threshold that we have set up is actually quite arbitrary and would not be appropriate for all populations.
+and the 1.8 m threshold that we have used is completely arbitrary and would not be appropriate for all populations.
 
 This idea that behind group labels there are one or more measurements made along a continuous spectrum is something that I think provides a useful frame for thinking about gender issues.
 I'm a very visual thinker, so if we took <span class="figEm person">a hundred people</span> and marked their height on <span class="figEm scale">a scale</span> it might look something like this:
 
-^[{-} One hundred people's height marked as a dash on a scale]
 ![One hundred heights along a scale](heightRug.svg)
+^[{-} One hundred people's height marked as a dash on a scale]
 
 To make this clearer we can stack them up on top of one another,
 which makes <span class="figEm distribution">the distribution</span> more obvious;
 there are lots of people grouped around an <span class="figEm average">average height</span>,
 with less people who are <span class="figEm tall short">very tall or short</span>.
 
-^[{-} One hundred people's height as a distribution]
 ![One hundred heights along a scale](heightDist.svg)
+^[{-} One hundred people's height as a distribution]
 
 Not all distributions will look like this though.
 There is no reason they need to be symmetrical,
