@@ -60,7 +60,7 @@ One hundred people's sex measured along different scales]
 
 The XX or XY chromosomes inherited during reproduction are a primary determinant of biological sex.
 <span class="figEm chromosomes">These are largely binary,
-although are some variations in these and in how they manifest during development</span>.
+although there are some variations in these and in how they manifest during development</span>.
 
 <span class="figEm hormones">Sex hormones,
 androgens (including testosterone) and estrogens,

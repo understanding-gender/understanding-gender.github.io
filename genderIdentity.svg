@@ -48,6 +48,7 @@
     fill-opacity:1;
     fill-rule:evenodd;
     stroke:#717171;
+    stroke-width: 0.17384;
     stroke-linecap:butt;
     stroke-miterlimit:4;
     stroke-dasharray:none;
