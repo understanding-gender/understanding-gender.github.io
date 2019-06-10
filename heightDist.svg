@@ -42,9 +42,9 @@
      fit-margin-bottom="0" />
   <style
      id="style995">
-.scale {
+path.scale {
     fill-opacity:1;
-    stroke:none;
+    stroke: #222;
     fill:#222;
     stroke-opacity:1;
 }
@@ -89,6 +89,14 @@ g.average.active > .person {
 }</style>
   <defs
      id="defs10">
+    <style type="text/css">
+       @font-face {
+          font-family: 'xkcd Script';
+          src: 	url('xkcd-script/font/xkcd-script.woff') format('woff'), 
+		url('xkcd-script/font/xkcd-script.ttf') format('truetype');
+          font-weight: normal;
+          font-style: normal; }
+    </style>
     <inkscape:path-effect
        back_thickness="0.25"
        front_thickness="1"
