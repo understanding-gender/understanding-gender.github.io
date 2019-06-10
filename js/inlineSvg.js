@@ -1,3 +1,7 @@
+if (window.NodeList && !NodeList.prototype.forEach) { // polyfill for browsers not supporting forEach on NodeLists
+  NodeList.prototype.forEach = Array.prototype.forEach;
+}
+
 document.querySelectorAll('img[src$=".svg"]').forEach(function(e) {
   SVGInjector(e, {each: function(svg){
     svg.querySelectorAll('*').forEach(function(svgEl) {
