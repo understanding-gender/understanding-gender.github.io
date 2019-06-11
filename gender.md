@@ -1,7 +1,7 @@
 ---
 title: Understanding sex, gender and sexuality
 author: John Welford
-date: '9<sup>th</sup> June 2019'
+date: '11<sup>th</sup> June 2019'
 ---
 
 <section>
@@ -36,7 +36,7 @@ I'm a very visual thinker, so if we took <span class="figEm person">a hundred pe
 To make this clearer we can stack them up on top of one another,
 which makes <span class="figEm distribution">the distribution</span> more obvious;
 there are lots of people grouped around an <span class="figEm average">average height</span>,
-with less people who are <span class="figEm tall short">very tall or short</span>.
+with fewer people who are <span class="figEm tall short">very tall or short</span>.
 
 ![One hundred heights along a scale](heightDist.svg)
 ^[{-} One hundred people's height as a distribution]
@@ -182,17 +182,17 @@ but perhaps this view is useful to others?
 
 ## Disclaimers
 
-* I'm not an expert
-* Science and language are continually evolving
-* Distributions are to demonstrate the concept only, they are not based on anything other than vague guesswork (actual data welcomed!)
+* I'm not an expert.
+* Science and language are continually evolving.
+* Distributions are to demonstrate the concept only, they are not based on anything other than vague guesswork (actual data welcomed!).
 
 ## Credits
 
-* Diagrams are drawn by me in [Inkscape](https://inkscape.org/)
-* Text is written by me, based on a variety of sources on the web
-* The font in the diagrams is [xkcd](https://xkcd.com/) author [Randal Munroe's handwriting](https://cdn.rawgit.com/ipython/xkcd-font/master/preview.html), the main body text font is [Kalam](https://github.com/itfoundry/kalam)
-* The style of the page is a modified version of [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
-* This document is written in markdown and then converted to HTML using [Tufte Pandoc CSS](https://jez.io/tufte-pandoc-css/)
-* Original [Quigley scale drawings](https://en.wikipedia.org/wiki/File:Quigley_scale_for_androgen_insensitivity_syndrome.jpg) by Jonathan Marcus
-* SVG graphics are included interactively using [SVGInjector](https://github.com/iconic/SVGInjector)
-* This work is not directly influenced by [The GenderBread Person](https://itspronouncedmetrosexual.com/2012/03/the-genderbread-person-v2-0/) or [The Gender Unicorn](http://www.transstudent.org/gender/), however some similarities are acknowledged
+* Diagrams are drawn by me in [Inkscape](https://inkscape.org/).
+* Text is written by me, based on a variety of sources on the web.
+* The font in the diagrams is [xkcd](https://xkcd.com/) author [Randal Munroe's handwriting](https://cdn.rawgit.com/ipython/xkcd-font/master/preview.html), the main body text font is [Playtime With Hot Toddies](https://www.fontsquirrel.com/fonts/playtime-with-hot-toddies).
+* The style of the page is a modified version of [Tufte CSS](https://edwardtufte.github.io/tufte-css/).
+* This document is written in markdown and then converted to HTML using [Tufte Pandoc CSS](https://jez.io/tufte-pandoc-css/).
+* Original [Quigley scale drawings](https://en.wikipedia.org/wiki/File:Quigley_scale_for_androgen_insensitivity_syndrome.jpg) by Jonathan Marcus.
+* SVG graphics are included interactively using [SVGInjector](https://github.com/iconic/SVGInjector).
+* This work is not directly influenced by [The GenderBread Person](https://itspronouncedmetrosexual.com/2012/03/the-genderbread-person-v2-0/) or [The Gender Unicorn](http://www.transstudent.org/gender/), however some similarities are acknowledged.
