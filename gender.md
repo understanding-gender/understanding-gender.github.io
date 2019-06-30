@@ -162,7 +162,7 @@ with the specific term <span class="figEm lesbian">*lesbian* for women attracted
 <span class="figEm bi">*Bisexuality* is romantic or sexual attraction to both men and women</span>.
 
 Other descriptions that may be used include <span class="figEm pan">*pansexual*,
-which rejects the the notion of binary genders</span>,
+which rejects the notion of binary genders</span>,
 and *asexual*,
 where there is a lack of sexual attraction to others of any sex.
 The term *questioning* is also sometimes used to describe those who are unsure of their sexual orientation and do not wish to select a label.
